@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/authorquiz/static/js/runtime~main.9169a697.js"
   },
   {
-    "revision": "ce6ad503d1cf435ee9b2",
-    "url": "/authorquiz/static/js/main.581ac586.chunk.js"
+    "revision": "7800616dbc911363f9bf",
+    "url": "/authorquiz/static/js/main.5a59b8af.chunk.js"
   },
   {
     "revision": "0796282488012de28b4a",
     "url": "/authorquiz/static/js/2.39b06ef1.chunk.js"
   },
   {
-    "revision": "ce6ad503d1cf435ee9b2",
+    "revision": "7800616dbc911363f9bf",
     "url": "/authorquiz/static/css/main.0dd26df1.chunk.css"
   },
   {
-    "revision": "5de6a1d6a629e1294c145987f5911e5a",
+    "revision": "e6ac1e387ec799dc306916bba3109538",
     "url": "/authorquiz/index.html"
   }
 ];
