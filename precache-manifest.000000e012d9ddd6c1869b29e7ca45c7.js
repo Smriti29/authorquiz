@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/authorquiz/static/css/main.0dd26df1.chunk.css"
   },
   {
-    "revision": "2460149e038d5bec76f3b3ec0070f3d4",
+    "revision": "390dd3814b9c023e2f3744068034f4ee",
     "url": "/authorquiz/index.html"
   }
 ];
