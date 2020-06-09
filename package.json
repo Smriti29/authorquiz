@@ -1,6 +1,6 @@
 {
   "homepage": "https://smriti29.github.io/authorquiz",
-  "name": "myapp",
+  "name": "authorquiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,5 +29,16 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {}
+  "devDependencies": {},
+  "description": "NA",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://smriti29.github.io/authorquiz"
+  },
+  "keywords": [
+    "authorquiz"
+  ],
+  "author": "Smriti",
+  "license": "ISC"
 }
