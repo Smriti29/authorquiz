@@ -83,7 +83,7 @@ function onAnswerSelected(answer) {
 function render() {
 ReactDOM.render(<BrowserRouter>
 <React.Fragment>
-<Route exact path="/" component={AuthorQuiz} />
+<Route exact path="/authorquiz" component={App} />
 <Route exact path="/add" component={AddAuthorForm} />
 </React.Fragment>
 </BrowserRouter>, document.getElementById('root'));
